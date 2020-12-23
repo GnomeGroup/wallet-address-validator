@@ -29,7 +29,8 @@
     "raiblocks",
     "javascript",
     "browser",
-    "nodejs"
+    "nodejs",
+    "divi"
   ],
   "version": "0.2.4",
   "author": "Tomek Kolasa <tomek@kolasa.me>",

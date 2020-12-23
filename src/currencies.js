@@ -209,6 +209,11 @@ var CURRENCIES = [{
     name: 'raiblocks',
     symbol: 'xrb',
     validator: NANOValidator,
+},{
+    name: 'divi',
+    symbol: 'divi',
+    addressTypes: {prod: ['1e', 'd'], testnet: []},
+    validator: BTCValidator
 }];
 
 
